@@ -1,8 +1,11 @@
-# React + Vite
+## job portl 
+Welcome to the Job Portal application! This project is built using the MERN stack (MongoDB, Express, React, Node.js) along with Redux for state management and Tailwind CSS for styling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Technologies Used
+- **MongoDB**: NoSQL database for storing job listings and user data.
+- **Express**: Backend framework for building the API.
+- **React**: Frontend library for building the user interface.
+- **Node.js**: JavaScript runtime for the backend server.
+- **Redux**: State management for handling application state.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
