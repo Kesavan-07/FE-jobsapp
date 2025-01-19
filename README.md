@@ -1,4 +1,4 @@
-## job portl 
+## job portal
 Welcome to the Job Portal application! This project is built using the MERN stack (MongoDB, Express, React, Node.js) along with Redux for state management and Tailwind CSS for styling.
 
 ### Technologies Used
